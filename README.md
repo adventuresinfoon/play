@@ -12,8 +12,9 @@ https://hellofromthemagictavern.com/
 
 Special thanks to the makers of:<br>
 https://www.piskelapp.com/<br>
-https://ymck.net/app/magical-8bit-plug
+https://ymck.net/app/magical-8bit-plug<br>
+https://www.gimp.org/
 
 
 Extra special thanks to:<br>
-//
+https://www.pexels.com/@anniroenkae
