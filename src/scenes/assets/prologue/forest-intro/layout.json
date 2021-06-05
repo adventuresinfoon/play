@@ -1,0 +1,26 @@
+{
+  "dynamicSprites": [{
+    "name": "player",
+    "sprites": [{
+      "name": "arnie",
+      "data": "arnie",
+      "x": 32,
+      "y": 0
+    }]
+  }],
+  "staticSprites": [],
+  "walls": [
+    {
+      "x": 0,
+      "y": 0,
+      "width": 32,
+      "height": 64
+    },
+    {
+      "x": 64,
+      "y": 0,
+      "width": 64,
+      "height": 32
+    }
+  ]
+}
